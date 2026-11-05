@@ -16,7 +16,7 @@ Generate QR codes from text, save them to your Gallery, and share them with othe
 
 **Download the latest APK:**
 
-[⬇️ Download QRGen APK](../../releases/latest)
+[⬇️ Download QRGen APK](https://github.com/ahmaddabeer/QRGen/releases/tag/v1.0.0)
 
 1. Open the Releases page.
 2. Download the latest APK from Assets.
@@ -34,7 +34,12 @@ Generate QR codes from text, save them to your Gallery, and share them with othe
 
 ## 📸 Screenshots
 
-<!-- Add your app screenshots here -->
+Video : 
+
+https://github.com/user-attachments/assets/ab3bade9-5ff4-4e47-85c8-309bcca0b968
+
+
+
 
 ## 🚀 Installation
 
@@ -50,7 +55,7 @@ Generate QR codes from text, save them to your Gallery, and share them with othe
 
 ## 📦 Releases
 
-Check out [All Releases](../../releases) for APK downloads and updates.
+https://github.com/ahmaddabeer/QRGen/releases/tag/v1.0.0
 
 ## 👨‍💻 Developer
 
